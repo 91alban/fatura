@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+.app {
+  height: 100vh;
+  max-height: 100vh;
+}
